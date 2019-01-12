@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#banner{
+	background-image: url(images/Back2.png);
+	width: 100%;
+	height: auto;
+	background-size: cover;
+
+}
+
+#title{
+	color: white;
+	padding-bottom: 400px;
+	padding-top: 200px;
+	padding-left: 100px;  
+	font-family: 'Nunito',sans-serif;
+}
+
+#subtitle{
+	color: white;
+	padding-bottom: 400px;
+	padding-top: 200px;
+	padding-left: 100px;
+}
